@@ -1,0 +1,10 @@
+[2017-02-19 17:02:32.375] [ERROR] cheese - Cheese is too ripe!
+[2017-02-19 17:02:32.382] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-02-19 17:16:54.744] [WARN] cheese - GET /
+[2017-02-19 17:30:31.957] [WARN] cheese - GET / :log
+[2017-02-19 17:31:04.445] [WARN] cheese - GET / Sun, 19 Feb 2017 09:31:04 GMT
+[2017-02-19 17:34:31.535] [WARN] cheese - ::1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+[2017-02-19 17:36:16.602] [WARN] cheese - GET / Sun, 19 Feb 2017 09:36:16 GMT :info
+[2017-02-19 18:13:18.652] [INFO] cheese - GET / Sun, 19 Feb 2017 10:13:18 GMT
+[2017-02-19 18:59:55.271] [ERROR] cheese - GET / Sun, 19 Feb 2017 10:59:55 GMT
+[2017-02-19 19:00:52.066] [INFO] cheese - GET / Sun, 19 Feb 2017 11:00:52 GMT
